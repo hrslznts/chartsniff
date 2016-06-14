@@ -1,0 +1,8 @@
+metadata:
+dimensions:2
+x:time(datetime,YYYYMMDD)
+y:bid(numeric),ask(numeric),volume(numeric)
+format:csv,ordered
+data:
+time,bid,ask,volume
+20160302,10.2,2,123
